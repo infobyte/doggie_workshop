@@ -77,3 +77,6 @@ However, for all workshop challenges, physical Doggies are essential to observe 
 
 ## Disclaimer
 This simulator is for research and training only. Do not use on real vehicles. Contributions welcome—open issues or PRs for improvements!
+
+## License  
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/infobyte/doggie_workshop/blob/main/LICENSE) file for details.
