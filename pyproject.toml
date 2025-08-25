@@ -1,0 +1,16 @@
+[project]
+name = "doggie_lab"
+version = "0.0.1"
+# authors = [
+  # { name="Example Author", email="author@example.com" },
+# ]
+# description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools.package-data]
+my_package = ["data/*.ini"]

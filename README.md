@@ -1,1 +1,1 @@
-# doggie_workshop
+# Doggie Workshop - CAN Bus Hacking Challenges
